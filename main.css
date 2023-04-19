@@ -35,3 +35,16 @@ a:hover {
 .modal-body img {
     max-width: 200px;
 }
+
+.my-carousel {
+    padding: 0;
+}
+
+.my-carousel .carousel-item {
+    display: flex;
+    max-height: 750px;
+}
+
+.my-carousel .carousel-item img {
+    object-fit: cover;
+}
