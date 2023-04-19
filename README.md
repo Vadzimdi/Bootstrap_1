@@ -1,2 +1,2 @@
 # Bootstrap_1
-Working with Bootstrap
+E-shop by HTML and CSS (bootstrap)
