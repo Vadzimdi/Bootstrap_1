@@ -31,3 +31,7 @@ a:hover {
     right: 0;
     left: auto;
 }
+
+.modal-body img {
+    max-width: 200px;
+}
